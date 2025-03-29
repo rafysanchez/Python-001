@@ -1,0 +1,61 @@
+# Arquivos do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ambiente virtual
+venv/
+ENV/
+env/
+.env/
+.venv/
+
+# SQLite database
+*.db
+*.db-journal
+
+# VS Code
+.vscode/
+*.code-workspace
+.history/
+
+# Logs e arquivos temporários
+*.log
+*.pot
+*.pyc
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Outros
+*.bak
+*.swp
+*.swo
+.idea/
